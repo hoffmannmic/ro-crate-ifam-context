@@ -9,6 +9,6 @@
    },
    "@context":
    {
-      "xsmd": "http://www.purl.org/net/CSMD/4.0#"
+      "csmd": "http://www.purl.org/net/CSMD/4.0#"
    }
 }
