@@ -1,4 +1,12 @@
 {
+   "@id": "https://w3id.org/ro/crate/1.1/context",
+   "name": [
+      "IFAM JSON-LD Context"
+   ],
+   "version": "0.0.1",
+   "license": {
+      "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+   },
    "@context":
    {
       "Person": "http://xmlns.com/foaf/0.1/Person",
