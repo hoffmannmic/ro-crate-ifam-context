@@ -3,7 +3,7 @@
    "name": [
       "IFAM JSON-LD Context"
    ],
-   "version": "0.0.1",
+   "version": "0.0.2",
    "license": {
       "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
    },
